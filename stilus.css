@@ -11,7 +11,7 @@ main, article, header{
     box-sizing: border-box;
 }
 main {
-    background: #ffcccc;
+    background: light-green;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
