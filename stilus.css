@@ -6,7 +6,7 @@ body{
 }
 main, article, header{
     border:1px solid grey;
-    background: white;
+    background: light-green;
     padding:10px;
     box-sizing: border-box;
 }
