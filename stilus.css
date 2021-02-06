@@ -6,12 +6,12 @@ body{
 }
 main, article, header{
     border:1px solid grey;
-    background: light-green;
+    background: lightgreen;
     padding:10px;
     box-sizing: border-box;
 }
 main {
-    background: light-green;
+    background: lightblue;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
